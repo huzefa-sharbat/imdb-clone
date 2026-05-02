@@ -3,7 +3,7 @@
 **A responsive React application for discovering trending movies and managing a personal watchlist — powered by the TMDB API.**
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat&logo=vite)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?style=flat&logo=tailwind-css)](...)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![React Router](https://img.shields.io/badge/React_Router-6-CA4245?style=flat&logo=react-router)](https://reactrouter.com/)
 [![Axios](https://img.shields.io/badge/Axios-1.x-5A29E4?style=flat&logo=axios)](https://axios-http.com/)
@@ -13,17 +13,16 @@
 
 ## 📌 Live Demo
 
-> 🔗 [View Live](#) (https://imdb-clone-tau.vercel.app/)
+> 🔗 [View Live](#)(https://imdb-clone-tau.vercel.app/)
 
 ---
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your app here after deployment)*
 
 | Home Page | WatchList |
 |-----------|-----------|
-| Trending movies grid with pagination | Personal watchlist with filter and search |
+| ![Movies](src/img/movies.jpeg) | ![WatchList](src/img/watchlist.jpeg) |
 
 ---
 
@@ -146,11 +145,11 @@ imdb-clone/
 
 ## 🧑‍💻 Author
 
-**Huzefa Sharbat**  
+**Huzefa Sharbatwala**  
 BSc Computer Science — SIES College, Mumbai  
 
 [![GitHub](https://img.shields.io/badge/GitHub-huzefa--sharbat-181717?style=flat&logo=github)](https://github.com/huzefa-sharbat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/huzefa-sharbatwala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/huzefa-sharbatwala)
 
 ---
 
@@ -160,4 +159,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-> *This project was built as part of my MERN stack learning journey through Scaler and TuteDude.*
+> *This project was built as part of my MERN stack learning journey.*
